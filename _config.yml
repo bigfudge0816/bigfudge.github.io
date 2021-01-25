@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+name: Flex
+markdown: redcarpet
+pygments: true
+
